@@ -1,0 +1,6 @@
+{
+  "name": "MIGO Mobile Tech Management System",
+  "description": "Comprehensive full-stack management system for mobile phone retail sales, repair tracking, inventory levels, and business analytics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
